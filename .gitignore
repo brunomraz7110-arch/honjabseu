@@ -1,0 +1,9 @@
+# 환경 변수 (실제 키가 담긴 파일 — 깃에 올리지 않음)
+.env
+.env.local
+.env.*.local
+
+# 의존성 / 빌드 산출물
+node_modules/
+dist/
+.DS_Store
